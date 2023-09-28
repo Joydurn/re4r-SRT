@@ -15,6 +15,7 @@ In the .lua files there are 2 variables to adjust
 2. 'percent' variable to make enemy HP in raw values or % based (true/false)
 
 No DA0 version
-![1689294082493](image/README/preview.png)
+![1689294082493](image/README/previewNoDA0.png)
+
 DA0 version
-![1689294082493](image/README/previewDA0.png)
+![1689294082493](image/README/preview.png)
